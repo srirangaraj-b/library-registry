@@ -9712,4 +9712,3 @@ https://github.com/m5stack/M5Hat-18650C
 https://github.com/admin3314/Vira_Matrix.git
 https://github.com/supratikd/HW290
 
-https://github.com/srirangaraj-b/UNOQ_STM32_HAL
